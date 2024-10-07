@@ -55,7 +55,7 @@ Follow the prompts to create new vehicles or select existing ones, and perform v
 
 ## Demo
 
-[Click here to watch a demo of the Vehicle Builder in action](your-video-link-here)
+[Click here to watch a demo of the Vehicle Builder in action](https://github.com/nandyamit/week-8-challenge/blob/main/Vehicle%20Builder_Walkthrough%20Video.mp4)
 
 ## Technologies Used
 

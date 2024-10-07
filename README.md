@@ -6,15 +6,19 @@ Vehicle Builder is a TypeScript command-line application that allows users to cr
 
 ## Table of Contents
 
+- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
 - [Notes for Contributors](#-notes-for-contributors)
 - [Questions](#questions)
+
+## Demo
+
+[Click here to watch a demo of the Vehicle Builder in action](https://github.com/nandyamit/week-8-challenge/blob/main/Vehicle%20Builder_Walkthrough%20Video.mp4)
 
 ## Installation
 
@@ -52,10 +56,6 @@ Follow the prompts to create new vehicles or select existing ones, and perform v
 - Select and interact with existing vehicles
 - Perform vehicle-specific actions
 - Command-line interface for easy interaction
-
-## Demo
-
-[Click here to watch a demo of the Vehicle Builder in action](https://github.com/nandyamit/week-8-challenge/blob/main/Vehicle%20Builder_Walkthrough%20Video.mp4)
 
 ## Technologies Used
 
